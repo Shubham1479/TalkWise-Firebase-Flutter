@@ -15,7 +15,7 @@ After joining user can send messages.
 
 
 
-*This app has few bugs related to toggling the join button, email formatting and admin isse(admin issue is when a person creates a group he/she cannot see the members of the group but all the other members can see it properly)*
+*This app has few bugs related to toggling the join button, email formatting and admin issue(admin issue is when a person creates a group he/she cannot see the members of the group but all the other members can see it properly)*
 
 
 # Output
